@@ -1,0 +1,39 @@
+body{
+    padding: 100px;
+}
+.submit-button-area{
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+    border-radius: 10px;
+}
+#transition-area{
+    display: none;
+}
+.container{
+    display: flex;
+    
+}
+.box-1{
+    background-color:tomato;
+    flex: 4;
+    margin: 0 20px;
+    border-radius: 10px;
+}
+.box-2{
+    background-color:rgb(0, 5, 3);
+    flex: 4;
+    margin: 0 20px;
+    border-radius: 10px;
+}
+.box-3{
+    background-color:rgba(174, 255, 0, 0.825);
+    flex: 4;
+    margin: 0 20px;
+    border-radius: 10px;
+}
+.statas{
+    color: white;
+    padding: 20px;
+    margin: 0 20px;
+}
